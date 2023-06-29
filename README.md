@@ -1,4 +1,4 @@
-# Data Engineering Project
+# GCP Data Engineering Project
 The aim of this project is to execute a modern data engineering workflow using various technologies, performed on a sample grocery store dataset.
 
 ## Data Source
